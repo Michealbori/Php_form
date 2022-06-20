@@ -1,0 +1,7 @@
+{
+    
+    "require": {
+        "twbs/bootstrap": "5.2.0-beta1",
+        "monolog/monolog": "2.0.*"
+    }
+}
