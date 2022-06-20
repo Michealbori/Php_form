@@ -1,0 +1,61 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.me1
+{
+  background:#e60000;
+  border: none;
+  height: 3rem;
+  border-radius:0.5rem;
+  color: white;
+  font-weight: 600;
+}
+
+.btn-primary a
+{
+  color: whitesmoke;
+  font-weight: 500;
+  text-decoration: none;
+}
+.btn-primary a:hover
+{
+  color: whitesmoke;
+}
+
+.btn-light a
+{
+  color: black;
+  font-weight: 500;
+  text-decoration: none;
+}
+.btn-light a:hover
+{
+  color: black;
+}
+
+.male
+{
+  font-weight: 500;
+}
+.female
+{
+  font-weight: 500;
+}
+
+.account
+{
+  color: #e60000;
+  font-weight: 500;
+}
+.accountsucess
+{
+  color: seagreen;
+  font-weight: 500;
+}
+.bx{
+  font-size: 1.4rem;
+}
+
